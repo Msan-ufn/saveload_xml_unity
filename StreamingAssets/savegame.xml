@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<SaveGame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <slv_pos_x>-0.251708925</slv_pos_x>
+  <slv_pos_y>4.10392857</slv_pos_y>
+  <slv_pos_z>7.71977329</slv_pos_z>
+  <slv_rot_x>0</slv_rot_x>
+  <slv_rot_y>0</slv_rot_y>
+  <slv_rot_z>0</slv_rot_z>
+  <slv_smallbox_visible>true</slv_smallbox_visible>
+  <slv_bigbox_visible>true</slv_bigbox_visible>
+  <slv_ball_visible>false</slv_ball_visible>
+  <slv_caixa_instrumental_visible>true</slv_caixa_instrumental_visible>
+</SaveGame>
